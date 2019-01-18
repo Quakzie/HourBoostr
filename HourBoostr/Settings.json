@@ -1,0 +1,23 @@
+{
+  "CheckForUpdates": true,
+  "HideToTray": true,
+  "Accounts": [
+    {
+      "Details": {
+        "Username": "spexy_rainbows",
+        "Password": "AssandTitties2004xD",
+        "LoginKey": "M+GAhP+UhCNyvaqhVJU"
+      },
+      "ShowOnlineStatus": true,
+      "ConnectToSteamCommunity": true,
+      "RestartGamesEveryThreeHours": true,
+      "JoinSteamGroup": true,
+      "IgnoreAccount": false,
+      "ChatResponse": "",
+      "Games": [
+        252490,
+        271590
+      ]
+    }
+  ]
+}
